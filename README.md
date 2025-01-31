@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating some uncommon exceptions that can occur. The program showcases how to catch and handle ArrayIndexOutOfBoundsException, NullPointerException, and ArithmeticException.  The solution file provides improved error handling.
